@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Redis dump files
+dump.rdb
+*.rdb
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# Misc
+*.sqlite3
